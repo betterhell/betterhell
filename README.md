@@ -26,22 +26,22 @@
 
 <div id="main" align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="600" height="300"/>
-</div>
 
----
-### :man_technologist: About Me : 
+  ---
+  
+  ### :man_technologist: About Me : 
 
-I am a beginning Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  I am a beginning Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I work as a freelancer and create web applications.
+ :telescope: I work as a freelancer and create web applications.
 
-- :seedling: Constantly learning new technologies and tools.
+ :seedling: Constantly learning new technologies and tools.
 
-- :zap: In my free time, I stream and enjoy music content.
+ :zap: In my free time, I stream and enjoy music content.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](dev.betterhell@gmail.com)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](dev.betterhell@gmail.com)
 
----
+ ---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -67,4 +67,5 @@ I am a beginning Frontend Developer <img src="https://media.giphy.com/media/WUlp
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=betterhell&theme=highcontrast&border_radius=10&ring=EB5454&background=EB545400)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterhell&layout=compact&theme=vision-friendly-dark&bg_color=00000000&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
