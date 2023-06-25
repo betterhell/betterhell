@@ -39,7 +39,7 @@
 
  :zap: In my free time, I stream and enjoy music content.
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](dev.betterhell@gmail.com)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.betterhell@gmail.com)
 
  ---
 ### :hammer_and_wrench: Languages and Tools :
