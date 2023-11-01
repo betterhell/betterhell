@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
-
   <div id="badges">
     <a target="_blank" href="https://t.me/betterheal">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
