@@ -20,10 +20,7 @@
 <div id="main" align="center">
   :man_technologist: About Me : 
 
-  I am a beginning Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
- :telescope: I work as a freelancer and create web applications.
-
+ I am a beginning Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
  :seedling: Constantly learning new technologies and tools.
 
  :zap: In my free time, I stream and enjoy music content.
