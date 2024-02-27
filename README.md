@@ -48,8 +48,6 @@
 
 ---
 ### :fire: My Stats :
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=betterhell&theme=highcontrast&border_radius=10&ring=EB5454&background=EB545400)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betterhell&layout=compact&theme=vision-friendly-dark&bg_color=00000000&border_radius=10)
 </div>
 
