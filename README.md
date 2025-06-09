@@ -1,25 +1,5 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a target="_blank" href="https://t.me/betterheal">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-
-  <img  src="https://komarev.com/ghpvc/?username=betterhell&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div id="main" align="center">
-  :man_technologist: About Me : 
-
- I am a beginning Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
- 
- :seedling: Constantly learning new technologies and tools.
-
- :zap: In my free time, I stream and enjoy music content.
-
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skkogame@gmail.com)
-
- ---
+  
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
